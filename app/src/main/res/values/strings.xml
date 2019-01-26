@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kilomètres</string>
+    <string name="kilometrage">kilométrage</string>
+    <string name="entrez_kilometrage">Entrez le kilométrage</string>
+    <string name="lieu">Lieu</string>
+    <string name="entrez_lieu">Entrez le lieu</string>
+    <string name="demarrer">Démarrer</string>
+    <string name="date">Date courante</string>
+    <string name="stopper">Stopper</string>
+</resources>
